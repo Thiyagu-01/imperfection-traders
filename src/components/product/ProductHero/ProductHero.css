@@ -1,0 +1,210 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;600&display=swap");
+
+.productHero{
+    position:relative;
+    width:100%;
+    min-height:240px;
+    background:#f7f2e6;
+    border-bottom:1px solid #e3d8c1;
+    overflow:hidden;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    padding:40px 20px;
+    box-sizing:border-box;
+}
+
+.productHeroContent{
+    position:relative;
+    z-index:5;
+    max-width:760px;
+    width:100%;
+    text-align:center;
+}
+
+.productHeroLabel{
+    display:block;
+    margin-bottom:10px;
+
+    font-family:"Playfair Display",serif;
+    font-size:15px;
+    font-weight:700;
+    letter-spacing:1px;
+    text-transform:uppercase;
+
+    color:#2d6a3e;
+}
+
+.productHeroDivider{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    margin-bottom:18px;
+}
+
+.productHeroDivider span{
+    width:46px;
+    height:1px;
+    background:#ccb892;
+}
+
+.productHeroDivider .flower{
+    width:auto;
+    height:auto;
+    background:none;
+
+    color:#2d6a3e;
+    font-size:14px;
+}
+
+.productHero h1{
+    margin:0;
+
+    font-family:"Playfair Display",serif;
+    font-size:36px;
+    font-weight:700;
+    line-height:1.2;
+
+    color:#2d6a3e;
+}
+
+.productHero p{
+    margin:16px auto 0;
+
+    max-width:560px;
+
+    font-family:Poppins,sans-serif;
+    font-size:15px;
+    line-height:1.8;
+
+    color:#777;
+}
+
+.productHeroLeaf{
+    position:absolute;
+    top:50%;
+    width:170px;
+
+    transform:translateY(-50%);
+    pointer-events:none;
+    user-select:none;
+}
+
+.productHeroLeaf.left{
+    left:0;
+}
+
+.productHeroLeaf.right{
+    right:0;
+    transform:translateY(-50%) scaleX(-1);
+}
+
+@media (max-width:992px){
+.productHero{
+    min-height:220px;
+    padding:36px 20px;
+}
+
+.productHeroContent{
+    max-width:620px;
+}
+
+.productHero h1{
+    font-size:32px;
+}
+
+.productHero p{
+    font-size:15px;
+}
+
+.productHeroLeaf{
+    width:130px;
+}
+}
+
+@media (max-width:768px){
+.productHero{
+    min-height:220px;
+    padding:34px 18px;
+}
+
+.productHeroContent{
+    max-width:320px;
+}
+
+.productHeroLabel{
+    font-size:13px;
+    margin-bottom:8px;
+}
+
+.productHeroDivider{
+    gap:10px;
+    margin-bottom:14px;
+}
+
+.productHeroDivider span{
+    width:30px;
+}
+
+.productHeroDivider .flower{
+    font-size:12px;
+}
+
+.productHero h1{
+    font-size:28px;
+    line-height:1.3;
+}
+
+.productHero p{
+    max-width:280px;
+    margin-top:14px;
+    font-size:14px;
+    line-height:1.7;
+}
+
+.productHeroLeaf{
+    display:none;
+}
+}
+
+@media (max-width:480px){
+.productHero{
+    min-height:200px;
+    padding:28px 14px;
+}
+
+.productHeroContent{
+    max-width:260px;
+}
+
+.productHeroLabel{
+    font-size:12px;
+}
+
+.productHeroDivider{
+    gap:8px;
+    margin-bottom:12px;
+}
+
+.productHeroDivider span{
+    width:24px;
+}
+
+.productHeroDivider .flower{
+    font-size:11px;
+}
+
+.productHero h1{
+    font-size:24px;
+    line-height:1.3;
+}
+
+.productHero p{
+    max-width:230px;
+    font-size:13px;
+    line-height:1.6;
+}
+}
