@@ -1,4 +1,6 @@
 import { useEffect, useRef, useState } from "react";
+import { useNavigate } from "react-router-dom";
+
 import tomato from "../../../assets/tomato.png";
 import avacado from "../../../assets/avacado.png";
 import broccoli from "../../../assets/broccoli.png";
@@ -29,6 +31,7 @@ const products = [
 export default function FreshHarvestSection() {
   const sectionRef = useRef(null);
   const [visible, setVisible] = useState(false);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -41,8 +44,19 @@ export default function FreshHarvestSection() {
     );
 
     if (sectionRef.current) observer.observe(sectionRef.current);
+
     return () => observer.disconnect();
   }, []);
+
+  const handleBrowseProducts = () => {
+    navigate("/product");
+
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
   return (
     <section
       ref={sectionRef}
@@ -101,7 +115,9 @@ export default function FreshHarvestSection() {
       </div>
 
       <div className="browse-button">
-        <button>Browse All Products →</button>
+        <button onClick={handleBrowseProducts}>
+          Browse All Products →
+        </button>
       </div>
 
       <div className="harvest-stroke"></div>
