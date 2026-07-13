@@ -1,8 +1,8 @@
 import "./AnnouncementBar.css";
 
 const announcements = [
-  { id: 1, icon: "🚚", text: "Free Delivery Across India on Orders Above ₹499" },
-  { id: 2, icon: "🌿", text: "100% Organic Farm Fresh Produce" },
+  { id: 1, icon: "🚚", text: "Bulk Savings: Buy More, Save More on Family Packs" },
+  { id: 2, icon: "🌿", text: "Organic Farm Fresh Produce" },
   { id: 3, icon: "🏪", text: "Wholesale Orders Available For Businesses" },
 ];
 
