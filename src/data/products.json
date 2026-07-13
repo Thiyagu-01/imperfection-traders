@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "Fresh Fruits",
+    "image": "/products/Apple.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 2,
+    "name": "Ash Gourd",
+    "category": "Fresh Vegetables",
+    "image": "/products/Ash Gourd.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 3,
+    "name": "Avocado",
+    "category": "Exotic Vegetables",
+    "image": "/products/Avocado.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "category": "Fresh Fruits",
+    "image": "/products/Banana.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 5,
+    "name": "Basil Leaf",
+    "category": "Fresh Greens",
+    "image": "/products/Basil Leaf.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 6,
+    "name": "Beans",
+    "category": "Fresh Vegetables",
+    "image": "/products/Beans.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 7,
+    "name": "Bitter Gourd",
+    "category": "Fresh Vegetables",
+    "image": "/products/Bitter Gourd.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 8,
+    "name": "Black Grapes",
+    "category": "Fresh Fruits",
+    "image": "/products/Black Grapes.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 9,
+    "name": "Bottle Gourd",
+    "category": "Fresh Vegetables",
+    "image": "/products/Bottle Gourd.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 10,
+    "name": "Brinjal",
+    "category": "Fresh Vegetables",
+    "image": "/products/Brinjal.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 11,
+    "name": "Broccoli",
+    "category": "Exotic Vegetables",
+    "image": "/products/Broccoli.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 12,
+    "name": "Cabbage",
+    "category": "Fresh Vegetables",
+    "image": "/products/Cabbage.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 14,
+    "name": "Carrot",
+    "category": "Fresh Vegetables",
+    "image": "/products/Carrot.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 15,
+    "name": "Cauliflower",
+    "category": "Fresh Vegetables",
+    "image": "/products/Cauliflower.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 16,
+    "name": "Coriander Leaf",
+    "category": "Fresh Greens",
+    "image": "/products/Coriander Leaf.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+    {
+    "id": 17,
+    "name": "Corn",
+    "category": "Fresh Vegetables",
+    "image": "/products/Corn.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 18,
+    "name": "Cucumber",
+    "category": "Fresh Vegetables",
+    "image": "/products/Cucumber.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 19,
+    "name": "Curry Leaf",
+    "category": "Fresh Greens",
+    "image": "/products/Curry Leaf.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 20,
+    "name": "Dill Leaf",
+    "category": "Fresh Greens",
+    "image": "/products/Dill Leaf.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 21,
+    "name": "Garlic",
+    "category": "Fresh Vegetables",
+    "image": "/products/Garlic.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 22,
+    "name": "Ginger",
+    "category": "Fresh Vegetables",
+    "image": "/products/Ginger.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 23,
+    "name": "Green Bell Pepper",
+    "category": "Exotic Vegetables",
+    "image": "/products/Green Bell Pepper.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 24,
+    "name": "Green Chilli",
+    "category": "Fresh Vegetables",
+    "image": "/products/Green Chilli.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 25,
+    "name": "Green Grapes",
+    "category": "Fresh Fruits",
+    "image": "/products/Green Grapes.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 26,
+    "name": "Lady Finger",
+    "category": "Fresh Vegetables",
+    "image": "/products/Lady Finger.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 27,
+    "name": "Lemon",
+    "category": "Fresh Fruits",
+    "image": "/products/Lemon.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 28,
+    "name": "Lettuce",
+    "category": "Fresh Greens",
+    "image": "/products/Lettuce.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 29,
+    "name": "Mint Leaves",
+    "category": "Fresh Greens",
+    "image": "/products/Mint Leaves.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 30,
+    "name": "Okra",
+    "category": "Fresh Vegetables",
+    "image": "/products/Okra.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 31,
+    "name": "Onion",
+    "category": "Fresh Vegetables",
+    "image": "/products/Onion.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 32,
+    "name": "Orange",
+    "category": "Fresh Fruits",
+    "image": "/products/Orange.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+    {
+    "id": 33,
+    "name": "Oregano",
+    "category": "Fresh Greens",
+    "image": "/products/Oregano.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 34,
+    "name": "Papaya",
+    "category": "Fresh Fruits",
+    "image": "/products/Papaya.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 35,
+    "name": "Pear",
+    "category": "Fresh Fruits",
+    "image": "/products/Pear.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 36,
+    "name": "Pineapple",
+    "category": "Fresh Fruits",
+    "image": "/products/Pineapple.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 37,
+    "name": "Potato",
+    "category": "Fresh Vegetables",
+    "image": "/products/Potato.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 38,
+    "name": "Pomegranate",
+    "category": "Fresh Fruits",
+    "image": "/products/Pomegranate.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 39,
+    "name": "Pumpkin",
+    "category": "Fresh Vegetables",
+    "image": "/products/Pumpkin.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 40,
+    "name": "Radish",
+    "category": "Fresh Vegetables",
+    "image": "/products/Radish.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 41,
+    "name": "Red Bell Pepper",
+    "category": "Exotic Vegetables",
+    "image": "/products/Red Bell Pepper.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 42,
+    "name": "Red Cabbage",
+    "category": "Exotic Vegetables",
+    "image": "/products/Red Cabbage.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 43,
+    "name": "Ridge Gourd",
+    "category": "Fresh Vegetables",
+    "image": "/products/Ridge Gourd.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 44,
+    "name": "Rosemary",
+    "category": "Fresh Greens",
+    "image": "/products/Rosemary.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 45,
+    "name": "Spinach",
+    "category": "Fresh Greens",
+    "image": "/products/Spinach.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 46,
+    "name": "Spring Onion",
+    "category": "Fresh Greens",
+    "image": "/products/Spring Onion.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 47,
+    "name": "Turnip",
+    "category": "Fresh Vegetables",
+    "image": "/products/Turnip.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  },
+  {
+    "id": 48,
+    "name": "Zucchini",
+    "category": "Exotic Vegetables",
+    "image": "/products/Zucchini.png",
+    "description": "Farm fresh and juicy\nPerfect for every kitchen"
+  }
+]
